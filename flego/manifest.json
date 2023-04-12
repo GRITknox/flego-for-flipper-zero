@@ -1,0 +1,9 @@
+{
+    "name": "flego",
+    "description": "Control LEGO D11 Bulldozer 42131 using Flipper Zero",
+    "version": "1.0.0",
+    "main": "main.lua",
+    "author": "GRITknox",
+    "icon": "icon.icn"
+  }
+  
