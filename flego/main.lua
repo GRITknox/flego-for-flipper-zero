@@ -1,3 +1,5 @@
+-- obviously built for the D11 bulldozer but I started simplifying the build by having it listen instead of already knowing if that makes sense.  things will change.
+
 local ble = require("ble")
 local display = require("display")
 
