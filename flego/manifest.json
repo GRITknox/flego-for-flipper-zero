@@ -1,0 +1,9 @@
+{
+    "name": "flego",
+    "description": "use your flipper as a lego remote control",
+    "version": "1.0.0",
+    "main": "main.lua",
+    "author": "GRITknox",
+    "icon": "icon.icn"
+  }
+  
