@@ -1,0 +1,5 @@
+{
+  "name": "LEGO Remote for the D11 Bulldozer 42131",
+  "description": "Control LEGO devices using Flipper Zero",
+  "sources": ["lego_remote.c"]
+}
